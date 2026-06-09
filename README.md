@@ -3,10 +3,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&height=100&lines=Data+Analyst+%F0%9F%93%8A;Power+BI+Developer+%F0%9F%9A%80;SQL+%26+Python+Enthusiast+%F0%9F%8E%AF;Turning+Data+into+Insights+%E2%9A%A1;Dashboard+Builder+%F0%9F%8C%90;Excel+%26+VBA+Specialist+%F0%9F%94%A5" alt="Typing SVG">
 
 <p align="center">
-  <a href="mailto:patroramu06@gmail.com">
+  <a href="mailto:ramupathro07@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836">
   </a>
-  <a href="https://github.com/patroramu06">
+  <a href="https://github.com/ramupathro07">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717">
   </a>
   <img src="https://img.shields.io/badge/Location-Srikakulam%2C%20AP-00F7F7?style=for-the-badge&logo=googlemaps&logoColor=white">
@@ -118,21 +118,21 @@ patro_ramu = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ramupathro07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=patroramu06&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7" />
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=ramupathro07&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patroramu06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=patroramu06&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00F7F7&line=7B42F6&point=FFFFFF&area=true&area_color=00F7F7" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramupathro07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ramupathro07&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00F7F7&line=7B42F6&point=FFFFFF&area=true&area_color=00F7F7" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patroramu06/patroramu06/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patroramu06/patroramu06/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/patroramu06/patroramu06/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramupathro07/ramupathro07/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramupathro07/ramupathro07/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ramupathro07/ramupathro07/output/github-snake.svg" />
   </picture>
 </div>
 

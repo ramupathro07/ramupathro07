@@ -122,7 +122,7 @@ patro_ramu = {
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramupathro07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramupathro07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=6" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ramupathro07&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00F7F7&line=7B42F6&point=FFFFFF&area=true&area_color=00F7F7" />
 </div>
 

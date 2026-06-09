@@ -136,4 +136,18 @@ patro_ramu = {
   </picture>
 </div>
 
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ramupathro07&theme=tokyonight"/>
+
+</div>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ramupathro07/ramupathro07/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B42F6,100:00F7F7&height=120&section=footer">

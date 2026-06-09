@@ -85,34 +85,6 @@ patro_ramu = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h2 align="center">🚀 Featured Project</h2>
-
-<div align="center">
-
-### 🛒 E-Commerce Profit & Sales Analysis Dashboard
-**Power BI | Excel | SQL**
-
-> Analyzed **113K+ orders** to uncover profit trends, demand patterns, and shipping optimization opportunities.
-> Reduced manual reporting effort by **75%** through an interactive, drill-down dashboard.
-> Covered category-level, regional, and state-level breakdowns for strategic decision-making.
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<h2 align="center">🏆 Certifications</h2>
-
-<div align="center">
-
-| Certification | Platform | Date |
-|---|---|---|
-| 📊 Power BI for Beginners | Simplilearn | Jan 2026 |
-| 📗 Excel Macros & VBA for Beginners | Simplilearn | Jan 2026 |
-| 📈 Power BI Micro Course | Skill Course | Mar 2026 |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <h2 align="center">📊 GitHub Statistics</h2>
 

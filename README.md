@@ -141,10 +141,8 @@ patro_ramu = {
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramupathro07/ramupathro07/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramupathro07/ramupathro07/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ramupathro07/ramupathro07/output/github-snake.svg" />
+    <img alt="github-snake" width="140%" src="https://raw.githubusercontent.com/ramupathro07/ramupathro07/output/github-snake.svg" />
   </picture>
 </div>
-
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B42F6,100:00F7F7&height=120&section=footer">

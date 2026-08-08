@@ -132,8 +132,6 @@ Cleaned and standardized 150,000+ EV registration records, wrote SQL queries to 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <h2 align="center">📊 GitHub Statistics</h2>
-
-<h2 align="center">📊 GitHub Statistics</h2>
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">

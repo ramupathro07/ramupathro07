@@ -133,10 +133,11 @@ Cleaned and standardized 150,000+ EV registration records, wrote SQL queries to 
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
+<h2 align="center">📊 GitHub Statistics</h2>
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ramupathro07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&cache_seconds=1800" />
+      <img width="100%" src="https://github-stats-extended.vercel.app/api?username=ramupathro07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&cache_seconds=1800" />
     </td>
     <td align="center" width="50%">
       <img width="100%" src="https://streak-stats.demolab.com/?user=ramupathro07&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7&cache_seconds=1800" />
@@ -144,9 +145,9 @@ Cleaned and standardized 150,000+ EV registration records, wrote SQL queries to 
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramupathro07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=6&cache_seconds=1800" />
+      <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ramupathro07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=6&cache_seconds=1800" />
     </td>
-    <td align="center" width="100%">
+    <td align="center" width="50%">
       <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ramupathro07&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00F7F7&line=7B42F6&point=FFFFFF&area=true&area_color=00F7F7&height=420" />
     </td>
   </tr>

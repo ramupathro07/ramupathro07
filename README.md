@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=Patro%20Ramu&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&height=100&lines=Data+Analyst+%F0%9F%93%8A;Power+BI+Developer+%F0%9F%9A%80;SQL+%26+Python+Enthusiast+%F0%9F%8E%AF;Sentiment+Analysis+%26+ML+%F0%9F%A4%96;EV+Market+Dashboards+%F0%9F%9A%97;Turning+Data+into+Insights+%E2%9A%A1" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&height=100&lines=Data+Analyst+%F0%9F%93%8A;Power+BI+Developer+%F0%9F%9A%80;SQL+%26+Python+Enthusiast+%F0%9F%8E%AF;Healthcare+%26+EV+Dashboards+%F0%9F%8F%A5%F0%9F%9A%97;Sentiment+Analysis+%26+ML+%F0%9F%A4%96;Turning+Data+into+Insights+%E2%9A%A1" alt="Typing SVG">
 
 <p align="center">
   <a href="mailto:patroramu06@gmail.com">
@@ -12,7 +12,7 @@
   <a href="https://linkedin.com/in/patro-ramu">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5">
   </a>
-  <img src="https://img.shields.io/badge/Location-Srikakulam%2C%20AP-00F7F7?style=for-the-badge&logo=googlemaps&logoColor=white">
+  <img src="https://img.shields.io/badge/Location-Andhra%20Pradesh%2C%20India-00F7F7?style=for-the-badge&logo=googlemaps&logoColor=white">
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -24,15 +24,16 @@
 ```python
 patro_ramu = {
     "pronouns": "He/Him",
-    "location": "Srikakulam, Andhra Pradesh 🇮🇳",
+    "location": "Andhra Pradesh, India 🇮🇳",
     "role": "Data Analyst Intern (Seeking) 📊",
-    "education": "B.Sc. Computer Science - Dr. B.R. Ambedkar University (2025), CGPA 7.11",
-    "skills": ["Python", "SQL", "Power BI", "Excel", "Scikit-learn", "DAX"],
+    "education": "B.Sc. Mathematics, Physics & Chemistry (MPC) - Dr. B.R. Ambedkar University (2025), CGPA 7.11",
+    "skills": ["Python", "SQL", "Power BI", "Excel", "DAX", "Data Modeling"],
     "current_projects": [
-        "Sentiment Analysis of Restaurant Reviews (NLTK + Naive Bayes)",
-        "Electric Vehicle Population Analysis Dashboard (150k+ records)"
+        "Electric Vehicle Population Analysis Dashboard (150k+ records)",
+        "National Health Care Analysis Dashboard (55.5k patient records)",
+        "Sentiment Analysis of Restaurant Reviews (NLTK + Naive Bayes)"
     ],
-    "interests": ["Data Visualization", "Business Intelligence", "Machine Learning", "Statistical Analysis"],
+    "interests": ["Data Visualization", "Business Intelligence", "Statistical Analysis", "Data Storytelling"],
     "motto": "Turning raw data into real decisions 📈",
     "life_loop": lambda: [eat(), clean_data(), analyze(), visualize(), repeat()]
 }
@@ -102,6 +103,24 @@ patro_ramu = {
 <tr>
 <td width="50%" valign="top">
 
+### 🚗 Electric Vehicle Population Analysis Dashboard
+**Python · SQL · Power BI · Pandas**
+
+Cleaned and standardized 150,000+ EV registration records, wrote SQL queries to aggregate data by city, utility provider, and vehicle type, then built an interactive Power BI dashboard with DAX measures and slicers. EDA revealed battery electric vehicles made up 78% of registrations, including a 69,000+ unit Tesla market lead.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 National Health Care Analysis Dashboard
+**Power BI · DAX · Data Modeling**
+
+Built a multi-page interactive Power BI dashboard analyzing 55,500 admitted patients across major hospitals, tracking average length of stay (15.51 days), average billing ($25,539), and average patient age (51.54). Includes KPI cards, donut/line charts by admission type and day type, demographic & clinical breakdowns, and treatment-cost analysis by hospital and top prescribed medications.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🎯 Sentiment Analysis of Restaurant Reviews
 **Python · Machine Learning · NLTK · Scikit-learn**
 
@@ -109,11 +128,6 @@ Built a Multinomial Naive Bayes classifier to analyze and classify 1,000 restaur
 
 </td>
 <td width="50%" valign="top">
-
-### 🚗 Electric Vehicle Population Analysis Dashboard
-**Python · SQL · Power BI · Pandas**
-
-Cleaned and standardized 150,000+ EV registration records, wrote SQL queries to aggregate data by city, utility provider, and vehicle type, then built an interactive Power BI dashboard with DAX measures and slicers. EDA revealed battery electric vehicles made up 78% of registrations, including a 69,000+ unit Tesla market lead.
 
 </td>
 </tr>

@@ -1,3 +1,10 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="ramupathro07's GitHub profile" src="dark_mode.svg" />
+</picture>
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=Patro%20Ramu&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&height=100&lines=Data+Analyst+%F0%9F%93%8A;Power+BI+Developer+%F0%9F%9A%80;SQL+%26+Python+Enthusiast+%F0%9F%8E%AF;Healthcare+%26+EV+Dashboards+%F0%9F%8F%A5%F0%9F%9A%97;Sentiment+Analysis+%26+ML+%F0%9F%A4%96;Turning+Data+into+Insights+%E2%9A%A1" alt="Typing SVG">
